@@ -69,6 +69,14 @@
 		],
 		projects: [
 			{
+				name: 'Anime Streaming Demo',
+				technology: 'Django',
+				description:
+					'Online anime streaming demo website built with Django and plain CSS/JS. It is a simple anime streaming website that can be used to watch anime online.',
+				image: 'anime-demo-preview.png',
+				link: 'https://anime-demo.clua.top/'
+			},
+			{
 				name: 'JustCalculator Website',
 				technology: 'Svelte',
 				description:
@@ -85,20 +93,6 @@
 				link: 'https://stringlengthonline.com/'
 			}
 		]
-		// gallery: [
-		// 	{
-		// 		image: 'seattle1.jpg',
-		// 		text: 'Show your hometown!'
-		// 	},
-		// 	{
-		// 		image: 'seattle2.jpg',
-		// 		text: 'My office.'
-		// 	},
-		// 	{
-		// 		component: Button1,
-		// 		text: 'You can even show off components!'
-		// 	}
-		// ]
 	};
 </script>
 
